@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\10-M\While 3\While 3\bin\Debug\While 3.exe.config
+C:\Users\user\Desktop\10-M\While 3\While 3\bin\Debug\While 3.exe
+C:\Users\user\Desktop\10-M\While 3\While 3\bin\Debug\While 3.pdb
+C:\Users\user\Desktop\10-M\While 3\While 3\obj\Debug\While 3.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\While 3\While 3\obj\Debug\While_3.Form1.resources
+C:\Users\user\Desktop\10-M\While 3\While 3\obj\Debug\While_3.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\While 3\While 3\obj\Debug\While 3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\While 3\While 3\obj\Debug\While 3.exe
+C:\Users\user\Desktop\10-M\While 3\While 3\obj\Debug\While 3.pdb
